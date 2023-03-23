@@ -1,0 +1,17 @@
+button{
+    border-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    background-color: #009688;
+    color: white;
+}
+.search-div {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+    padding: 200px 0 200px 0;
+}
